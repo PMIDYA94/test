@@ -1,5 +1,0 @@
-{{#user}
-Name: Pallab Midya
-Skills: HTML, CSS, Js, React.js
-Email:pallab.midya0205@gmail.com
-{{/user}}
